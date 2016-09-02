@@ -6,7 +6,7 @@
 // Description : Hello World in C++, Ansi-style
 
 // Te ndertohet nje funksion qe gjene vleren e funksionit
-// y= X* S(i/3-4) (i=2 deri ne n+1)
+// y= X* ∑(i/3-4) (i=2 deri ne n+1)
 // vlera x jepet nga perdorusi
 //============================================================================
 
@@ -37,3 +37,9 @@ int main() {
 
 	return 0;
 }
+
+// !! SHENIM !!
+// TE GJITHA SHENIMET  ME DY SLASHE PERPARA JANE KOMENTE EDHE
+// SHERBEJNE VETEM PER SQARIMIN E KODIT. ATO SKANE NDIKIM NE ECURINE
+// E PROGRAMIT. MUND TE HIQEN PA DEMTUAR KODIN
+// HAPPY CODING :) -_-

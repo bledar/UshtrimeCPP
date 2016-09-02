@@ -1,6 +1,6 @@
 //============================================================================
 // Name        : Ushtrimi_6.cpp
-// Author      : 
+// Author      : Bledar Haxhia
 // Version     :
 // Copyright   : Your copyright notice
 // Description : Hello World in C++, Ansi-style
@@ -36,3 +36,9 @@ int main() {
 
 	return 0;
 }
+
+// !! SHENIM !!
+// TE GJITHA SHENIMET  ME DY SLASHE PERPARA JANE KOMENTE EDHE
+// SHERBEJNE VETEM PER SQARIMIN E KODIT. ATO SKANE NDIKIM NE ECURINE
+// E PROGRAMIT. MUND TE HIQEN PA DEMTUAR KODIN
+// HAPPY CODING :) -_-
